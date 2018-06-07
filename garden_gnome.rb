@@ -1,6 +1,6 @@
 # Code your instances here
 class GardenGnome
-  def name
+  def name = name
     @name = name
   end
 end
